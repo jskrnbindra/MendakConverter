@@ -380,6 +380,7 @@ public class Mendak extends LogicHolder implements ActionListener, ItemListener
     PnlMiddleColumn.add(btnhCnvrt2,BLMidColumn.CENTER);
     PnlMiddleColumn.add(btnhCnvrt3,BLMidColumn.SOUTH);
       /*
+REDUNDANT
     PnlComponentsGrid.add(tbhNSL);
     PnlComponentsGrid.add(btnhCnvrt1);
     PnlComponentsGrid.add(tbhNSR);
