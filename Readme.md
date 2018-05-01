@@ -6,6 +6,7 @@ A GUI based multi converter tool in JAVA. The tool helps:
 - to Encode/Decode URLs
 
 The application also supports data from/to database and text files.
+This project was developed as a part of 2nd year mini project assignment.
 
 ## Steps to run
 
